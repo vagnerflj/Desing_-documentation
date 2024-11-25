@@ -13,6 +13,10 @@
 * Amanda Beatriz
 * Carol
 * Tay
+
+## 🕗Cronograma de Entrega
+
+<img src=''>
 ---
 # ☝️Tópicos Abordados
 
