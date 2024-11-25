@@ -2,10 +2,10 @@
 
 ## 📃Documentação da equipe de Desing para comprovação de tarefas realizadas Assim como especifições e detalhes.
 
-## 👨🏾‍🏫Professor.
+## 👨🏾‍🏫Professor:
 * Celso de Oliveira
 
-## 👨🏼‍💻Integrantes do projeto.
+## 👨🏼‍💻Integrantes do projeto:
 * Vagner Ferreira
 * Guilherme Holm
 * Eduardo Arpelau
@@ -87,9 +87,9 @@ Os concorrentes principais em um e-commerce de peças eletrônicas variam entre 
 * Criado com Aux de IA
 <img src='Arquivo_000.png' width='50%'>
 
-## 📋Criação de protótipos de telas
-
-## 📋Definir identidade visual da loja
+## 📋Criação de protótipos de telas & Definir identidade visual da loja
+* Protótipo Utilizado de base
+<img src='proto.png' width='50%'>
 
 ## 📋Criação do logo e elementos gráficos
 
