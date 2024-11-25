@@ -84,6 +84,8 @@ Os concorrentes principais em um e-commerce de peças eletrônicas variam entre 
 <img src='fonte.png' width='50%'>
 
 ## 📋Desenvolvimento de Moodboard
+* Criado com Aux de IA
+<img src='Arquivo_000.png' width='50%'>
 
 ## 📋Criação de protótipos de telas
 
