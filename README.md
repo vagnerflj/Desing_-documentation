@@ -53,14 +53,17 @@ Os concorrentes principais em um e-commerce de peças eletrônicas variam entre 
    - **Pontos fracos**: Alta competição, preços pouco controláveis, vendedores diversos que podem impactar a confiabilidade.
 
 <img src='ali' width='10%'> 
+
    - **Pontos fortes**: Grande variedade de peças, preços competitivos, globalização (peças de fornecedores internacionais).
    - **Pontos fracos**: Prazo de entrega longo, problemas de taxação, comunicação difícil com alguns vendedores.
 
 <img src='amazon' width='10%'> 
+
    - **Pontos fortes**: Reputação, facilidade de navegação, grande quantidade de avaliações de consumidores, plataforma segura.
    - **Pontos fracos**: A concorrência no marketplace é intensa, pode haver variação no preço entre os vendedores.
 
 <img src='fast' width='10%'> <img src='kabum' width='10%'> 
+
    - **Pontos fortes**: Foco em tecnologia e eletrônicos, presença consolidada no Brasil, entrega rápida.
    - **Pontos fracos**: Preço alto devido à marca consolidada, variedade limitada de peças específicas.
 
