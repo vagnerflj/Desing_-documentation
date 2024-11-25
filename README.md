@@ -47,19 +47,20 @@ O público-alvo de um e-commerce de peças eletrônicas pode ser segmentado em d
 Os concorrentes principais em um e-commerce de peças eletrônicas variam entre empresas de grande porte e plataformas de nicho.
 
 ### Concorrentes Diretos:
-1. **Mercado Livre**:
+<img src='mercado-livre-logo-1D23FA3B7C-seeklogo.com.png' width='10%'> 
+   
    - **Pontos fortes**: Plataforma consolidada, grande tráfego de usuários, sistema de pagamento integrado.
    - **Pontos fracos**: Alta competição, preços pouco controláveis, vendedores diversos que podem impactar a confiabilidade.
 
-2. **AliExpress**:
+3. **AliExpress**:
    - **Pontos fortes**: Grande variedade de peças, preços competitivos, globalização (peças de fornecedores internacionais).
    - **Pontos fracos**: Prazo de entrega longo, problemas de taxação, comunicação difícil com alguns vendedores.
 
-3. **Amazon**:
+4. **Amazon**:
    - **Pontos fortes**: Reputação, facilidade de navegação, grande quantidade de avaliações de consumidores, plataforma segura.
    - **Pontos fracos**: A concorrência no marketplace é intensa, pode haver variação no preço entre os vendedores.
 
-4. **Fast Shop / Kabum!**:
+5. **Fast Shop / Kabum!**:
    - **Pontos fortes**: Foco em tecnologia e eletrônicos, presença consolidada no Brasil, entrega rápida.
    - **Pontos fracos**: Preço alto devido à marca consolidada, variedade limitada de peças específicas.
 
