@@ -77,6 +77,12 @@ Os concorrentes principais em um e-commerce de peças eletrônicas variam entre 
 
 ## 📋Definição da paleta de cores e tipografia.
 
+### Paleta.
+<img src='paleta.png' width='100%'>
+
+### Tipografia.
+<img src='fonte.png' width='100%'>
+
 ## 📋Desenvolvimento de Moodboard
 
 ## 📋Criação de protótipos de telas
