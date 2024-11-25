@@ -16,8 +16,10 @@
 
 ## 🕗Cronograma de Entrega
 
-<img src=''>
+<img src='crono.png' width='80%'>
+
 ---
+
 # ☝️Tópicos Abordados
 
 ## 📋Pesquisa de Mercado e Análise de Concorrentes.
