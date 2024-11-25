@@ -1,11 +1,11 @@
-# 💡Projeto E-Commerce PrestaShop Plataform.
+# 💡Projeto E-Commerce PrestaShop Plataforma
 
-## 📃Documentação da equipe de Desing para comprovação de tarefas realizadas Assim como especifições e detalhes.
+## 📃 Documentação da Equipe de Design para Comprovação de Tarefas Realizadas, Especificações e Detalhes.
 
-## 👨🏾‍🏫Professor:
+## 👨🏾‍🏫 Professor:
 * Celso de Oliveira
 
-## 👨🏼‍💻Integrantes do projeto:
+## 👨🏼‍💻 Integrantes do Projeto:
 * Vagner Ferreira
 * Guilherme Holm
 * Eduardo Arpelau
@@ -14,13 +14,29 @@
 * Carol
 * Tay
 
-## 🕗Cronograma de Entrega
+## 🕗 Cronograma de Entrega
 
 <img src='crono.png' width='80%'>
 
 ---
 
-# ☝️Tópicos Abordados
+# ☝️ Tópicos Abordados
+
+1. [📋 Pesquisa de Mercado e Análise de Concorrentes](#pesquisa-de-mercado-e-análise-de-concorrentes)
+2. [📋 Definição da Paleta de Cores e Tipografia](#definição-da-paleta-de-cores-e-tipografia)
+3. [📋 Desenvolvimento de Moodboard](#desenvolvimento-de-moodboard)
+4. [📋 Criação de Protótipos de Telas & Definir Identidade Visual da Loja](#criação-de-protótipos-de-telas--definir-identidade-visual-da-loja)
+5. [📋 Criação do Logo e Elementos Gráficos](#criação-do-logo-e-elementos-gráficos)
+6. [📋 Definir Estilo Visual da Loja](#definir-estilo-visual-da-loja)
+7. [📋 Criação de Wireframes da Loja](#criação-de-wireframes-da-loja)
+8. [📋 Design de Páginas de Produto](#design-de-páginas-de-produto)
+9. [📋 Design de Banners Promocionais](#design-de-banners-promocionais)
+10. [📋 Mockups de Páginas de Checkout](#mockups-de-páginas-de-checkout)
+11. [📋 Criação do Layout Final (Home, Categorias, etc.)](#criação-do-layout-final-home-categorias-etc)
+12. [📋 Implementação de Microinterações e Animações](#implementação-de-microinterações-e-animações)
+13. [📋 Testes de Usabilidade (UX)](#testes-de-usabilidade-ux)
+
+---
 
 ## 📋Pesquisa de Mercado e Análise de Concorrentes.
 
