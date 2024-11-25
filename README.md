@@ -22,6 +22,8 @@
 
 # ☝️ Tópicos Abordados
 
+Aqui estão os tópicos abordados no nosso projeto. Clique em cada título para ir diretamente para a seção correspondente:
+
 1. [📋 Pesquisa de Mercado e Análise de Concorrentes](#pesquisa-de-mercado-e-análise-de-concorrentes)
 2. [📋 Definição da Paleta de Cores e Tipografia](#definição-da-paleta-de-cores-e-tipografia)
 3. [📋 Desenvolvimento de Moodboard](#desenvolvimento-de-moodboard)
@@ -38,7 +40,8 @@
 
 ---
 
-## 📋Pesquisa de Mercado e Análise de Concorrentes.
+## 📋 Pesquisa de Mercado e Análise de Concorrentes
+Aqui detalhamos a pesquisa sobre o mercado de peças eletrônicas, incluindo análise de concorrentes e tendências.
 
 ### Perfil do Mercado de Peças Eletrônicas
 
@@ -88,10 +91,11 @@ Os concorrentes principais em um e-commerce de peças eletrônicas variam entre 
 1. **Lojas físicas e lojas de bairro**: Algumas pequenas lojas de eletrônicos podem oferecer peças para reparo, com atendimento personalizado.
 2. **Plataformas especializadas**: Empresas como **ePecas** ou **Manoel El**.
 
+
 ---
 
-
-## 📋Definição da paleta de cores e tipografia.
+## 📋 Definição da Paleta de Cores e Tipografia
+Apresentamos as escolhas de cores e fontes que definem a identidade visual do projeto.
 
 * Paleta de cores
 <img src='paleta.png' width='100%'>
@@ -99,30 +103,64 @@ Os concorrentes principais em um e-commerce de peças eletrônicas variam entre 
 * Tipografia
 <img src='fonte.png' width='50%'>
 
-## 📋Desenvolvimento de Moodboard
-* Criado com Aux de IA
+---
+
+## 📋 Desenvolvimento de Moodboard
+A criação do moodboard foi feita com o auxílio de inteligência artificial para inspirar o estilo visual da loja.
+
 <img src='Arquivo_000.png' width='50%'>
 
-## 📋Criação de protótipos de telas & Definir identidade visual da loja
-* Protótipo Utilizado de base
+---
+
+## 📋 Criação de Protótipos de Telas & Definir Identidade Visual da Loja
+Aqui mostramos os protótipos iniciais de telas e a definição de toda a identidade visual da loja.
+
 <img src='proto.png' width='50%'>
 
-## 📋Criação do logo e elementos gráficos
 
-## 📋Definir estilo visual da loja
+---
 
-## 📋Criação de wireframes da loja
+## 📋 Criação do Logo e Elementos Gráficos
+O design do logo e outros elementos gráficos essenciais para o e-commerce foram desenvolvidos para refletir a identidade da marca.
 
-## 📋Design de páginas de produto
+---
 
-## 📋Design de banners promocionais
+## 📋 Definir Estilo Visual da Loja
+Definimos o estilo visual, levando em conta a experiência do usuário e a estética desejada para a loja online.
 
-## 📋Mockups de páginas de checkout
+---
 
-## 📋Criação do layout final (home, categorias, etc.)
+## 📋 Criação de Wireframes da Loja
+Os wireframes foram criados para planejar a estrutura e o layout da loja.
 
-## 📋Implementação de microinterações e animações
+---
 
-## 📋Testes de usabilidade (UX)	
+## 📋 Design de Páginas de Produto
+Desenvolvemos o design das páginas de produtos com foco na clareza e usabilidade.
 
-  
+---
+
+## 📋 Design de Banners Promocionais
+Criamos banners promocionais atrativos para incentivar a compra e destacar ofertas.
+
+---
+
+## 📋 Mockups de Páginas de Checkout
+Os mockups das páginas de checkout foram projetados para facilitar a navegação e aumentar as conversões.
+
+---
+
+## 📋 Criação do Layout Final (Home, Categorias, etc.)
+Desenvolvemos o layout final, incluindo as páginas principais como a home e categorias de produtos.
+
+---
+
+## 📋 Implementação de Microinterações e Animações
+As microinterações e animações foram implementadas para melhorar a experiência do usuário e tornar o site mais dinâmico.
+
+---
+
+## 📋 Testes de Usabilidade (UX)
+Realizamos testes de usabilidade para garantir que o site ofereça uma navegação fácil e intuitiva para os usuários.
+
+
