@@ -27,7 +27,7 @@ Aqui estão os tópicos abordados no nosso projeto. Clique em cada título para 
 1. [📋 Pesquisa de Mercado e Análise de Concorrentes](#pesquisa-de-mercado-e-análise-de-concorrentes)
 2. [📋 Definição da Paleta de Cores e Tipografia](#definição-da-paleta-de-cores-e-tipografia)
 3. [📋 Desenvolvimento de Moodboard](#desenvolvimento-de-moodboard)
-4. [📋 Criação de Protótipos de Telas & Definir Identidade Visual da Loja](#criação-de-protótipos-de-telas--definir-identidade-visual-da-loja)
+4. [📋 Criação de Protótipos de Telas & Definir Identidade Visual da Loja](#criação-de-protótipos-de-telas-definir-identidade-visual-da-loja)
 5. [📋 Criação do Logo e Elementos Gráficos](#criação-do-logo-e-elementos-gráficos)
 6. [📋 Definir Estilo Visual da Loja](#definir-estilo-visual-da-loja)
 7. [📋 Criação de Wireframes da Loja](#criação-de-wireframes-da-loja)
@@ -91,7 +91,6 @@ Os concorrentes principais em um e-commerce de peças eletrônicas variam entre 
 1. **Lojas físicas e lojas de bairro**: Algumas pequenas lojas de eletrônicos podem oferecer peças para reparo, com atendimento personalizado.
 2. **Plataformas especializadas**: Empresas como **ePecas** ou **Manoel El**.
 
-
 ---
 
 ## 📋 Definição da Paleta de Cores e Tipografia
@@ -116,7 +115,6 @@ A criação do moodboard foi feita com o auxílio de inteligência artificial pa
 Aqui mostramos os protótipos iniciais de telas e a definição de toda a identidade visual da loja.
 
 <img src='proto.png' width='50%'>
-
 
 ---
 
@@ -162,5 +160,3 @@ As microinterações e animações foram implementadas para melhorar a experiên
 
 ## 📋 Testes de Usabilidade (UX)
 Realizamos testes de usabilidade para garantir que o site ofereça uma navegação fácil e intuitiva para os usuários.
-
-
