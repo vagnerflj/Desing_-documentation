@@ -135,7 +135,7 @@ Definimos o estilo visual, levando em conta a experiência do usuário e a esté
 ## 📋 Criação de Wireframes da Loja
 Os wireframes foram criados para planejar a estrutura e o layout da loja.
 
-<img src='wire.png' width='50%'>
+<img src='wire.webp' width='50%'>
 
 
 ---
