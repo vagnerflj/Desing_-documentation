@@ -150,6 +150,8 @@ Desenvolvemos o design das páginas de produtos com foco na clareza e usabilidad
 ## 📋 Design de Banners Promocionais
 Criamos banners promocionais atrativos para incentivar a compra e destacar ofertas.
 
+<img src='banner.png' width='50%'>
+
 ---
 
 ## 📋 Mockups de Páginas de Checkout
