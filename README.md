@@ -33,10 +33,7 @@ Aqui estão os tópicos abordados no nosso projeto. Clique em cada título para 
 7. [📋 Criação de Wireframes da Loja](#criação-de-wireframes-da-loja)
 8. [📋 Design de Páginas de Produto](#design-de-páginas-de-produto)
 9. [📋 Design de Banners Promocionais](#design-de-banners-promocionais)
-10. [📋 Mockups de Páginas de Checkout](#mockups-de-páginas-de-checkout)
-11. [📋 Criação do Layout Final (Home, Categorias, etc.)](#criação-do-layout-final-home-categorias-etc)
-12. [📋 Implementação de Microinterações e Animações](#implementação-de-microinterações-e-animações)
-13. [📋 Testes de Usabilidade (UX)](#testes-de-usabilidade-ux)
+10. [📋 Testes de Usabilidade (UX)](#testes-de-usabilidade-ux)
 
 ---
 
@@ -151,21 +148,6 @@ Desenvolvemos o design das páginas de produtos com foco na clareza e usabilidad
 Criamos banners promocionais atrativos para incentivar a compra e destacar ofertas.
 
 <img src='banner.png' width='50%'>
-
----
-
-## 📋 Mockups de Páginas de Checkout
-Os mockups das páginas de checkout foram projetados para facilitar a navegação e aumentar as conversões.
-
----
-
-## 📋 Criação do Layout Final (Home, Categorias, etc.)
-Desenvolvemos o layout final, incluindo as páginas principais como a home e categorias de produtos.
-
----
-
-## 📋 Implementação de Microinterações e Animações
-As microinterações e animações foram implementadas para melhorar a experiência do usuário e tornar o site mais dinâmico.
 
 ---
 
