@@ -128,7 +128,7 @@ O design do logo e outros elementos gráficos essenciais para o e-commerce foram
 ## 📋 Definir Estilo Visual da Loja
 Definimos o estilo visual, levando em conta a experiência do usuário e a estética desejada para a loja online.
 
-<img src='tela.jpg' width='30%'>
+<img src='tela.png' width='50%'>
 
 ---
 
