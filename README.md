@@ -143,6 +143,8 @@ Os wireframes foram criados para planejar a estrutura e o layout da loja.
 ## 📋 Design de Páginas de Produto
 Desenvolvemos o design das páginas de produtos com foco na clareza e usabilidade.
 
+<img src='produtos.png' width='50%'>
+
 ---
 
 ## 📋 Design de Banners Promocionais
