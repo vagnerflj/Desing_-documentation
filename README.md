@@ -119,7 +119,9 @@ Aqui mostramos os protótipos iniciais de telas e a definição de toda a identi
 ---
 
 ## 📋 Criação do Logo e Elementos Gráficos
-O design do logo e outros elementos gráficos essenciais para o e-commerce foram desenvolvidos para refletir a identidade da marca.
+O design do logo e outros elementos gráficos essenciais para o e-commerce foram desenvolvidos para refletir a identidade da marca. O nome "Ware" remete a hardware, simbolizando a essência de produtos tecnológicos, enquanto "Tech" destaca o foco em soluções de ponta.
+
+<img src='logo-1731975456.jpg' width='30%'>
 
 ---
 
