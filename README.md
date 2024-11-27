@@ -16,7 +16,7 @@
 
 ## 🕗 Cronograma de Entrega
 
-<img src='crono.png' width='80%'>
+<img src='img/crono.png' width='80%'>
 
 ---
 
@@ -63,22 +63,22 @@ O público-alvo de um e-commerce de peças eletrônicas pode ser segmentado em d
 Os concorrentes principais em um e-commerce de peças eletrônicas variam entre empresas de grande porte e plataformas de nicho.
 
 ### Concorrentes Diretos:
-<img src='mercado-livre-logo-1D23FA3B7C-seeklogo.com.png' width='10%'> 
+<img src='img/mercado-livre-logo-1D23FA3B7C-seeklogo.com.png' width='10%'> 
    
    - **Pontos fortes**: Plataforma consolidada, grande tráfego de usuários, sistema de pagamento integrado.
    - **Pontos fracos**: Alta competição, preços pouco controláveis, vendedores diversos que podem impactar a confiabilidade.
 
-<img src='aliexpress-256.png' width='10%'> 
+<img src='img/aliexpress-256.png' width='10%'> 
 
    - **Pontos fortes**: Grande variedade de peças, preços competitivos, globalização (peças de fornecedores internacionais).
    - **Pontos fracos**: Prazo de entrega longo, problemas de taxação, comunicação difícil com alguns vendedores.
 
-<img src='logo-amazon-4096.png' width='10%'> 
+<img src='img/logo-amazon-4096.png' width='10%'> 
 
    - **Pontos fortes**: Reputação, facilidade de navegação, grande quantidade de avaliações de consumidores, plataforma segura.
    - **Pontos fracos**: A concorrência no marketplace é intensa, pode haver variação no preço entre os vendedores.
 
-<img src='logo-loja-Kabum.png' width='10%'> 
+<img src='img/logo-loja-Kabum.png' width='10%'> 
 
    - **Pontos fortes**: Foco em tecnologia e eletrônicos, presença consolidada no Brasil, entrega rápida.
    - **Pontos fracos**: Preço alto devido à marca consolidada, variedade limitada de peças específicas.
@@ -94,45 +94,45 @@ Os concorrentes principais em um e-commerce de peças eletrônicas variam entre 
 Apresentamos as escolhas de cores e fontes que definem a identidade visual do projeto.
 
 * Paleta de cores
-<img src='paleta.png' width='100%'>
+<img src='img/paleta.png' width='100%'>
 
 * Tipografia
-<img src='fonte.png' width='50%'>
+<img src='img/fonte.png' width='50%'>
 
 ---
 
 ## 📋 Desenvolvimento de Moodboard
 A criação do moodboard foi feita com o auxílio de inteligência artificial para inspirar o estilo visual da loja.
 
-<img src='Arquivo_000.png' width='50%'>
+<img src='img/Arquivo_000.png' width='50%'>
 
 ---
 
 ## 📋 Criação de Protótipos de Telas & Definir Identidade Visual da Loja
 Aqui mostramos os protótipos iniciais de telas e a definição de toda a identidade visual da loja.
 
-<img src='proto.png' width='50%'>
+<img src='img/proto.png' width='50%'>
 
 ---
 
 ## 📋 Criação do Logo e Elementos Gráficos
 O design do logo e outros elementos gráficos essenciais para o e-commerce foram desenvolvidos para refletir a identidade da marca. O nome "Ware" remete a hardware, simbolizando a essência de produtos tecnológicos, enquanto "Tech" destaca o foco em soluções de ponta.
 
-<img src='logo-1731975456.jpg' width='30%'>
+<img src='img/logo-1731975456.jpg' width='30%'>
 
 ---
 
 ## 📋 Definir Estilo Visual da Loja
 Definimos o estilo visual, levando em conta a experiência do usuário e a estética desejada para a loja online.
 
-<img src='tela.png' width='50%'>
+<img src='img/tela.png' width='50%'>
 
 ---
 
 ## 📋 Criação de Wireframes da Loja
 Os wireframes foram criados para planejar a estrutura e o layout da loja.
 
-<img src='wire.webp' width='50%'>
+<img src='img/wire.webp' width='50%'>
 
 
 ---
@@ -140,14 +140,14 @@ Os wireframes foram criados para planejar a estrutura e o layout da loja.
 ## 📋 Design de Páginas de Produto
 Desenvolvemos o design das páginas de produtos com foco na clareza e usabilidade.
 
-<img src='produtos.png' width='50%'>
+<img src='img/produtos.png' width='50%'>
 
 ---
 
 ## 📋 Design de Banners Promocionais
 Criamos banners promocionais atrativos para incentivar a compra e destacar ofertas.
 
-<img src='banner.png' width='50%'>
+<img src='img/banner.png' width='50%'>
 
 ---
 
